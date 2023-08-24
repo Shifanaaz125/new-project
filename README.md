@@ -7,3 +7,17 @@ The analysis and forecasting are based on the customer churn's impact on yearly 
 1. No unusual occurrences will have a substantial impact on the data we used (Outliers).
 2. The data we used is current data and can be used to analyze and make predictions for the organization.
 3. There are no unanticipated negatives to the company employing any advised technique.
+
+# Research Questions
+1. How do Hotel Booking and Annual Income affect customer churn?
+2. How can we prevent customer churn?
+
+# Analytical Summary
+Customers who have made hotel reservations account for 60% of the overall population, whereas those who have not made hotel reservations account for 39% of the population, which is a significant number.
+
+We found that customers with the highest yearly income have the lowest proportion of customer churn, whereas those with the lowest (40%) and middle (42%), have the highest percentage of churn. 
+
+# Insights
+*The largest customer churn has been observed when a consumer has not made a hotel reservation. This may be due to a number of factors, including expensive hotel rates and longer waiting lists for reservations, both of which have a substantial impact on why people don't book hotels. This may help us understand how to run the campaign in order to shorten the waiting list.*
+
+*The highest customer churn has also been seen in the situation where customers have low and middle income. This may give us an idea of the needs of the customers, and you can utilize the insights to work on how to lower your pricing without affecting your revenue, which you can then offer to your customers, which can prevent customer churn.*
