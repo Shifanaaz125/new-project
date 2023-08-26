@@ -21,3 +21,11 @@ We found that customers with the highest yearly income have the lowest proportio
 *The largest customer churn has been observed when a consumer has not made a hotel reservation. This may be due to a number of factors, including expensive hotel rates and longer waiting lists for reservations, both of which have a substantial impact on why people don't book hotels. This may help us understand how to run the campaign in order to shorten the waiting list.*
 
 *The highest customer churn has also been seen in the situation where customers have low and middle income. This may give us an idea of the needs of the customers, and you can utilize the insights to work on how to lower your pricing without affecting your revenue, which you can then offer to your customers, which can prevent customer churn.*
+
+# Request for Feedback
+Thank you for taking the time to review my notebook! I'd greatly appreciate your feedback on the following aspects:
+
+1. Data preprocessing: Did I miss any critical steps?
+2. Correct Method: Is the chosen analytical approach appropriate for this problem?
+3. Clarity: Is my explanation clear and easy to follow?
+Your insights will help me improve this analysis. Feel free to comment directly on the notebook or reach out to me. Thank you!
