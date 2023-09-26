@@ -1,3 +1,8 @@
+# Travel and Tour Customer Churn
+
+![image](https://github.com/Shifanaaz125/new-project/assets/120267469/e5c3c6e7-352c-45f1-83f5-2e7be61e9255)
+
+
 # Problem Statment
 A tour & travel company wants to predict whether a customer will churn or not. Based on a few customer characteristics like their age, frequent flyer status, annual income class, services opted, account snick to social media, booked hotel or not, Target.
 
